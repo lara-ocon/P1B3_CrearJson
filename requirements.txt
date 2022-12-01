@@ -1,0 +1,5 @@
+pandas
+GitPython
+tk
+regex
+python-time
